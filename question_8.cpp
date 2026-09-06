@@ -12,7 +12,7 @@ class array{
 
 public:
   int size;
-  int* arr[size0];
+  int* arr[size];
 
   array(int n){
     
